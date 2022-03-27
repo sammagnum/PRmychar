@@ -1,0 +1,1 @@
+/home/samm/.local/git/nerd-fonts/bin/scripts/test-fonts.sh
